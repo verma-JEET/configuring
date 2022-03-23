@@ -1,0 +1,19 @@
+body{
+    background-image: url('30.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.left{
+    border: 10px solid red;
+    display: inline block;
+}
+.mid{
+    border: 20px solid yellow;
+}
+.right{
+    border: 10px solid green;
+    display: inline block;
+}
